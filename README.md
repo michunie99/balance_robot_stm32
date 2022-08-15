@@ -22,7 +22,7 @@ My code can be found in */Core/Inc* (header files) and */Core/Src* (source files
 
 ![robot](https://user-images.githubusercontent.com/81962102/184668689-62edc141-8e64-47f4-84fb-a21931672c51.gif)
 
-Robots still needs a littel bit of tuning 
+Robots still needs some tuning 
 
 ## Future plans
 
