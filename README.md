@@ -16,7 +16,7 @@ My code can be found in */Core/Inc* (header files) and */Core/Src* (source files
 - ***balance_pid.h/balance_pid.c*** - PID controller used to control angle of the robot,
 - ***comp_filter.h/comp_filter.c*** - complementary filter used to filter IMU data and calculate robots' angle,
 - ***ICM20948_I2C.h/ICM20948_I2C.c*** - simple library to set up ICM20948 and read acceleration and gyro data using I2C,
-- ***max14870.h/max14870.c*** - library to control PWM motor controller.
+- ***max14870.h/max14870.c*** - library to control PWM motor driver.
 
 ## Video
 
