@@ -1,0 +1,2 @@
+../Core/Src/comp_filter.c:10:6:init_filter	24	static
+../Core/Src/comp_filter.c:16:7:update_filter	32	static

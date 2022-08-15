@@ -1,0 +1,6 @@
+../Core/Src/balance_pid.c:12:6:init_balance_regulator	32	static
+../Core/Src/balance_pid.c:36:6:update_controler	32	static
+../Core/Src/balance_pid.c:82:6:change_set_point	16	static
+../Core/Src/balance_pid.c:86:6:change_limits	24	static
+../Core/Src/balance_pid.c:93:6:change_scales	24	static
+../Core/Src/balance_pid.c:98:6:reset_regulator	16	static

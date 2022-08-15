@@ -1,0 +1,4 @@
+../Core/Src/max14870.c:10:6:max14870_init	24	static
+../Core/Src/max14870.c:30:6:max14870_mode_control	16	static
+../Core/Src/max14870.c:44:6:max14870_set_speed	16	static
+../Core/Src/max14870.c:53:6:max1470_set_direction	16	static

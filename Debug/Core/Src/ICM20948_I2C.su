@@ -1,0 +1,7 @@
+../Core/Src/ICM20948_I2C.c:10:9:init_imc20948	24	static
+../Core/Src/ICM20948_I2C.c:117:19:imc20948_acc_read	32	static
+../Core/Src/ICM20948_I2C.c:141:19:imc20948_gyro_read	32	static
+../Core/Src/ICM20948_I2C.c:166:19:imc20948_register_read	40	static
+../Core/Src/ICM20948_I2C.c:172:19:imc20948_registers_read	40	static
+../Core/Src/ICM20948_I2C.c:178:19:imc20948_register_write	40	static
+../Core/Src/ICM20948_I2C.c:184:19:imc20948_select_bank	40	static
