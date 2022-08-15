@@ -1,4 +1,4 @@
-# balance_robot_stm32# balance_robot_stm32
+# balance_robot_stm32
 
 It's my hobby robotics project. The robot is based on STM32F411 Nuceleo-64 board as a controller. The robot uses simple complementary filter to calculate tilt angle and a PID controller.
 
@@ -21,6 +21,8 @@ My code can be found in */Core/Inc* (header files) and */Core/Src* (source files
 ## Video
 
 ![robot](https://user-images.githubusercontent.com/81962102/184668689-62edc141-8e64-47f4-84fb-a21931672c51.gif)
+
+Robots still needs a littel bit of tuning 
 
 ## Future plans
 
